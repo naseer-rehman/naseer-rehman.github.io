@@ -39,7 +39,7 @@ const projects = [
     "Pathfinding Visualizer", 
     pathfindingAppImage,
     null,
-    "https://naseer.io/pathfinding-visualizer/",
+    "https://naseerrehman.com/pathfinding-visualizer/",
     ["JavaScript", "HTML", "CSS"],
   ),
   createProjectObject(
