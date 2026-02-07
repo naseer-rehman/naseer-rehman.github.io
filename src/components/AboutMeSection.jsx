@@ -31,12 +31,12 @@ function AboutMeSection() {
           ------------------------
         </div><br/>
         <AboutMeRow label="OS" value="Naseer Rehman on naseer.io" />
-        <AboutMeRow label="Experience" value="Front-End Developer, SQA Analyst" />
+        <AboutMeRow label="Experience" value="Frontend Developer, SQA Analyst" />
         <AboutMeRow label="Languages" value="C++, C, JS, Java, Python, SQL" />
         <AboutMeRow label="Theme" value="Problem-solver, Challenge-seeker" />
-        <AboutMeRow label="CPU" value="3rd B.S. Computer Science" />
-        <AboutMeRow label="GPU" value="RX580 that needs to be replaced" />
-        <AboutMeRow label="Interests" value="Exercising, Coding, Gaming" />
+        <AboutMeRow label="CPU" value="4th year BSc Computer Science" />
+        <AboutMeRow label="RAM" value="Missing — prime suspect is AI" />
+        <AboutMeRow label="Interests" value="Exercising, Coding, Gaming, Cooking" />
         <div className="about-me__socials">
           <SocialLink href="https://github.com/naseer-rehman" name="GitHub" target="_blank"><GithubIcon /></SocialLink>
           <SocialLink href="https://www.linkedin.com/in/naseer-rehman/" name="LinkedIn" target="_blank"><LinkedinIcon /></SocialLink>
